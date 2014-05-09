@@ -1,0 +1,13 @@
+# Site settings
+name: Schwilk Lab
+title: Schwilk Lab
+email: dylan@schwilk.org
+description: "The Schwilk Lab at Texas Tech University."
+baseurl: ""
+url: "http:://localhost:4000"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
+include: ['_pages']
+relative_permalinks: false
