@@ -3,7 +3,7 @@ Schwilk Lab webpage
 
 Author: Dylan W Schwilk
 
-Built using [jekyll][jekyll] for [github pages]
+Built using [jekyll][jekyll] for [github pages][gh-pages]
 
 Structure
 ---------
