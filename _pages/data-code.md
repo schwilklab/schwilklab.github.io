@@ -40,7 +40,7 @@ The source C++ code for the niche and limiting similarity simulation (kniche), a
 
 #### Schwilk, D. W. and B. Kerr. 2002. An alternative explanation for the evolution of flammability. <i>Oikos</i> 99: 431-442. ####
 
-[he C++ code for the genetic "niche-hiking" simulation: [ms-data-Oikos-2002][niche-hike]
+The C++ code for the genetic "niche-hiking" simulation: [ms-data-Oikos-2002][niche-hike]
 
 #### Schwilk, D. W., and D. D. Ackerly. 2001. Flammability and serotiny as strategies: correlated evolution in pines. <i>Oikos</i> 94: 326-336. ####
 
