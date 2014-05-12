@@ -7,6 +7,7 @@ status: publish
 type: page
 published: true
 permalink: /prospective-students/
+redirect_from: "/pro-students.html"
 ---
 
 I am currently accepting both Master's and Ph.D. students. I have funded RA-ships available.

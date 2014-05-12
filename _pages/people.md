@@ -7,6 +7,7 @@ status: publish
 type: page
 published: true
 permalink : /people/
+redirect_from: "/people.html"
 
 ---
 

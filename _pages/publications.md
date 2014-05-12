@@ -7,6 +7,8 @@ status: publish
 type: page
 published: true
 permalink: /research/publications/
+redirect_from: "/publications"
+
 ---
 
 ### 2013 ###

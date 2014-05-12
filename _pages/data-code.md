@@ -7,6 +7,8 @@ status: publish
 type: page
 published: true
 permalink : /research/data-code/
+redirect_from: "/research/data.html"
+redirect_from: "/pricklysoft.org/
 
 ---
 ### Software ###
