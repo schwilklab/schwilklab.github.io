@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+{{ page.content }}
+
+{% for post in site.categories['pubs'] %}
+  {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if currentyear != year %}
+    {% unless forloop.first %}</ul>{% endunless %}
+     <div class="entry">
+       <header class="entry-header">    
+      <h2 class= "entry-title">{{ currentyear }}</h2>
+    {% capture year %}{{currentyear}}{% endcapture %} 
+    </header>
+  {% endif %}
+    <p>{{ post.content | remove: '<p>' | remove: '</p>' }}
+    {% if post.pdf %} <a href="{{ post.pdf }}">&nbsp;• PDF •</a>{% endif %}
+   </p>
+ </entry>
+{% endfor %}
+

@@ -3,7 +3,6 @@ layout: page
 title: Data / Code
 categories: []
 tags: []
-status: publish
 type: page
 published: true
 permalink : /research/data-code/
@@ -17,14 +16,17 @@ My software projects are on [GitHub][schwilk-github].
 
 ### Online data and source code for published papers  ###
 
+Below, in reverse chronological order, I have listed publications for which I have posted source code and/or data.
+
 #### Schwilk et al, 2013 *PLoS One* ####
 
-- [BarkContour.R][BarkContour]: R script to read digitized bark contours and calculate bark thickness distributions.
-- [Link to publication][Schwilk-etal-2013]
+[BarkContour.R][BarkContour]: R script to read digitized bark contours and calculate bark thickness distributions.
+
+[Link to publication][Schwilk-etal-2013]
 
 #### Morlon et al, 2011, *Ecology Letters* ####
 
-- <a href="https://github.com/dschwilk/dwstree">dwstree project at github</a>: Source python code for phylogenetic analysis including generalized version of the BLADJ node age assignment algorithm. The main script of interest should be rarefaction.py which provides the sensitivity analyses and makes use of the branch length assignment in branch_lengths.py. Rarefaction code is written to perform trivial parallelization on multi-node computers. The phylomatic algorithm with ability to maintain the full phylogeny with non species-level tips is found in treematic.py. Further documentation is in source code docstrings.
+[dwstree project at github][dwstree]: Source python code for phylogenetic analysis including generalized version of the BLADJ node age assignment algorithm. The main script of interest should be rarefaction.py which provides the sensitivity analyses and makes use of the branch length assignment in branch_lengths.py. Rarefaction code is written to perform trivial parallelization on multi-node computers. The phylomatic algorithm with ability to maintain the full phylogeny with non species-level tips is found in treematic.py. Further documentation is in source code docstrings.
 
 [Link to publication][Morlon-etal-2011]
 
@@ -46,9 +48,11 @@ The C++ code for the genetic "niche-hiking" simulation: [ms-data-Oikos-2002][nic
 
 #### Schwilk, D. W., and D. D. Ackerly. 2001. Flammability and serotiny as strategies: correlated evolution in pines. <i>Oikos</i> 94: 326-336. ####
 
-- Online appendix with supertree phylogenies created and used in above paper:[ms-data-Oikos-2001][Oikos-2001]
+Online appendix with supertree phylogenies created and used in above paper:[ms-data-Oikos-2001][Oikos-2001]
+
 
 [schwilk-github]: https://github.com/dschwilk
+[dwstree]: (https://github.com/dschwilk/dwstree)
 [BarkContour]: https://gist.github.com/dschwilk/fa36e849cb5db561982c
 [Schwilk-etal-2013]: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079285
 [traithull]: https://github.com/dschwilk/traithull
