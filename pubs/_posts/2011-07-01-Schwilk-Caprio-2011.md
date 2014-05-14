@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Schwilk and Caprio 2011
-tags: [fire, flammability]
+tags: [fire ecology, flammability, plant functional traits]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BCaprio-2011_flammability.pdf
 type: pub

@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Ackerly et al 2006
-tags: [evolution]
+tags: [evolution, niche, plant functional traits]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Ackerly%2BSchwilk%2Betal-2006.pdf
 type: pub

@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Schwilk and Ackerly 2001
-tags: [fire, evolution]
+tags: [evolution, plant functional traits, flammability]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BAckerly-2001.pdf
 type: pub

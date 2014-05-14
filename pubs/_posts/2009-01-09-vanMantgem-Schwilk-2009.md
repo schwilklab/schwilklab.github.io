@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: van Mantgem and Schwilk 2009
-tags: [fire]
+tags: [fire ecology]
 categories: []
 pdf: http://fireecology.org/docs/Journal/pdf/Volume05/Issue02/116.pdf
 type: pub

@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Magalhaes and Schwilk 2012
-tags: [fire, flammability]
+tags: [fire ecology, flammability]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Magalhaes%2BSchwilk-2012.pdf
 type: pub

@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Schwilk and Ackerly 2005
-tags: [fire ecology, traits]
+tags: [fire ecology, plant functional traits]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BAckerly-2005a.pdf
 type: pub

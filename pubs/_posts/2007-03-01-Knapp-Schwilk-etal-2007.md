@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Knapp et al 2007
-tags: [fire]
+tags: [fire ecology]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Knapp%2BSchwilk%2Betal-2007_understory_season_of_burn.pdf
 type: pub

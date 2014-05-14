@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Stephens et al 2012
-tags: [fire, fuel treatments]
+tags: [fire ecology, fuel treatments]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Stephens%2BMcIver%2Betal-2012_SurrogatesBioSci_5-12.pdf
 type: pub

@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Schwilk et al 2009
-tags: [fire, fuel treatments]
+tags: [fire ecology, fuel treatments]
 categories: []
 pdf:  https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BKeeley%2Betal-2009_FFS.pdf
 type: pub
