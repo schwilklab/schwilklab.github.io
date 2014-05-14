@@ -28,6 +28,9 @@ Email me a Curriculum Vitae and be sure to include:
  4. names, addresses, phone numbers, and email addresses of 3 references
 
 
-I will contact you for discussion and you will then need to apply to the graduate programs in both the <a href="http://www.biol.ttu.edu">Department of Biological Sciences</a> and in the<a href="http://www.depts.ttu.edu/gradschool/admissions/"> Graduate School at Texas Tech University</a>.
+I will contact you for discussion and you will then need to apply to the graduate programs in both the [Department of Biological Sciences][TTU-BIOL] and in the [Graduate School at Texas Tech University][TTU-gradschool].
 
 The official departmental application deadlines are February 1 for the following Fall Semester, but prospective students must have all application materials to me by mid-January in order to be considered for acceptance and scholarships. Please contact me any time, however, as rolling admissions are possible.
+
+[TTU-BIOL]: http://www.biol.ttu.edu
+[TTU-gradschool]: http://www.depts.ttu.edu/gradschool/admissions/
