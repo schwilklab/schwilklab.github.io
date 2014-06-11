@@ -2,7 +2,7 @@
 layout: page
 title: Data / Code
 categories: []
-tags: []
+tags: [R,Python, C++]
 type: page
 published: true
 permalink : /research/data-code/
@@ -48,11 +48,11 @@ The C++ code for the genetic "niche-hiking" simulation: [ms-data-Oikos-2002][nic
 
 #### Schwilk, D. W., and D. D. Ackerly. 2001. Flammability and serotiny as strategies: correlated evolution in pines. <i>Oikos</i> 94: 326-336. ####
 
-Online appendix with supertree phylogenies created and used in above paper:[ms-data-Oikos-2001][Oikos-2001]
+Online appendix with supertree phylogenies created and used in above paper: [ms-data-Oikos-2001][Oikos-2001]
 
 
 [schwilk-github]: https://github.com/dschwilk
-[dwstree]: (https://github.com/dschwilk/dwstree)
+[dwstree]: https://github.com/dschwilk/dwstree
 [BarkContour]: https://gist.github.com/dschwilk/fa36e849cb5db561982c
 [Schwilk-etal-2013]: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079285
 [traithull]: https://github.com/dschwilk/traithull
