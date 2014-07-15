@@ -7,27 +7,31 @@ layout: page
 <h2 class="entry-title">Tags</h2>
     <ul class="tag-box inline">
     {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% assign pcount = 0 %}
       {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-      {% if site.tags[this_word][0].categories contains 'pubs' %}
-      <li><a href="#{{ this_word | cgi_escape }}">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a></li>
-    {% endif %}
+      {% for post in site.categories["pubs"] %} {% if post.tags contains this_word %}   {% assign pcount = pcount | plus:1 %}   {% endif %} {% endfor %}
+      {% if pcount != 0 %}
+      <li><a href="#{{ this_word | cgi_escape }}">{{ this_word }} <span>{{ pcount }}</span></a></li>
+      {% endif %}
     {% endunless %}{% endfor %}
     </ul>
 
+<!-- Now cycle through tags and display -->
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+ {% assign pcount = 0 %}
      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    {% if site.tags[this_word][0].categories contains 'pubs' %}
-    <div class="entry">
-       <header class="entry-header">
-         <h2 class = "entry-title" id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
-       </header>
-     {% for post in site.tags[this_word] %}{% if post.title != null %}
-         <p>{{ post.content | remove: '<p>' | remove: '</p>' }}
-          {% if post.pdf %} <a href="{{ post.pdf }}">&nbsp;• PDF •</a>{% endif %}
-         </p>   
-  <!-- <li itemscope><span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
-     {% endif %}{% endfor %}
-   </entry>
-  {% endif %}
+     {% for post in site.categories["pubs"] %} {% if post.tags contains this_word %} {% assign pcount = pcount | plus:1 %} {% endif %} {% endfor %}
+      {% if pcount != 0 %}
+        <div class="entry">
+           <header class="entry-header">
+           <h2 class = "entry-title" id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+          </header>
+         {% for post in site.categories["pubs"] %} {% if post.tags contains this_word %}
+             <p>{{ post.content | remove: '<p>' | remove: '</p>' }}
+             {% if post.pdf %} <a href="{{ post.pdf }}">&nbsp;• PDF •</a>{% endif %}
+             </p>   
+         {% endif %}{% endfor %}
+        </entry>
+      {% endif %} 
    {% endunless %}{% endfor %}
