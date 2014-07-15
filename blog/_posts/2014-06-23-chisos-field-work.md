@@ -3,7 +3,7 @@ layout: post
 title: Chisos field work
 categories:
 - Ecology
-tags:
+tags: [sky islands, plant functional traits]
 status: publish
 type: post
 published: true

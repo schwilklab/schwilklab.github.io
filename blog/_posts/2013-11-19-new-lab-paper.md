@@ -4,7 +4,7 @@ title: New lab paper
 categories:
 - Ecology
 - Fire
-tags: []
+tags: [sky islands, fire ecology]
 status: publish
 type: post
 published: true

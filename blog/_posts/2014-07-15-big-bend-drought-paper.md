@@ -3,7 +3,7 @@ layout: post
 title: Plant dieback under exceptional drought
 categories:
 - Ecology
-tags:
+tags: [climate change, sky islands, plant functional traits]
 status: publish
 type: post
 published: true
