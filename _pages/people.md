@@ -14,10 +14,14 @@ redirect_from: "/people.html"
 | Current Lab Members                  |                                                                                                     |
 | -------------------------------------| ----------------------------------------------------------------------------------------------------|
 | Dr. Dylan Schwilk                    | PI                                                                                                  |
-| Rita Margarida Magalhães             | PhD, In progress                                                                                    |
+| Rita Margarida Magalhães             | PhD, in progress                                                                                    |
+| Xiulin Gao                           | PhD, in progress                                                                                    |
+| Erik Lindberg                        | Masters, in progress                                                                                |
 | Tailor Brown                         | HHMI Undergraduate Research Scholar                                                                 |
 | Marley Clifton                       | Undergraduate researcher                                                                            |
-| Josh Willms                          | HHMI Undergraduate Research Scholar                                                                 |
+| Gabrielle Plata                      | Undergraduate researcher                                                                            |
+| Letitia Plata                        | Undergraduate researcher                                                                            |
+| Hannah Bell                          | Undergraduate researcher                                                                            |
 
 
 | Past graduate students               |                                                                                                     |
@@ -29,12 +33,12 @@ redirect_from: "/people.html"
 
 | Past undergraduate researchers       |                                                                                                     |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| Noelle Zavala (TTU/HHMI scholar)     | Smoke stimulated seed germination in Texas grassland species. 2008–2009.                            |
-| Rowdy Cunningham                     | Size structure and water relations in Juniperus pinchotii. 2008–2009                                |
-| Nathan Geiger (TTU/HHMI)             | Water potential and fuel moisture in Juniperus pinchotii. 2009–2010                                 |
-| William Brewer (TTU/HHMI)            | Effects of deer herbivory in central Texas forest and savanna. 2010–2011                            |
-| Henry Gross                          | Summer 2011                                                                                         |
-| Chris Rodriguez (HHMI)               | 2012                                                                                                |
+| Noelle Zavala                        | 2008–2009. HHMI Undergraduate Research Scholar                                                      |
+| Rowdy Cunningham                     | 2008–2009                                                                                           |
+| Nathan Geiger                        | 2009–2010. HHMI Undergraduate Research Scholar                                                      |
+| William Brewer                       | 2010–2011. HHMI Undergraduate Research Scholar                                                      |
+| Henry Gross                          | 2011                                                                                                |
+| Chris Rodriguez                      | 2012. HHMI Undergraduate Research Scholar                                                           |
 | Tyler Helton                         | 2013                                                                                                |
 | Erika Berry                          | 2013                                                                                                |
-
+| Josh Willms                          | 2013-2014. HHMI Undergraduate Research Scholar                                                      |
