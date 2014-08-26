@@ -10,7 +10,7 @@ permalink: /teaching/courses/
 ---
 ### Current or upcoming ###
 
-- R as a research Tool: Introduction to Programming, BIOL 6301 (Fall 2014)
+- R as a research Tool: Introduction to Programming, BIOL 6301 (Fall 2014). [Course website][R-research-tool] 
 
 ### Others, undergraduate ###
 
@@ -25,3 +25,4 @@ permalink: /teaching/courses/
 - Various special topics, BIOL 6301 (ongoing)
 
 [Blackboard]: http://www.depts.ttu.edu/lms/
+[R-research-tool]: http://r-research-tool.schwilk.org/
