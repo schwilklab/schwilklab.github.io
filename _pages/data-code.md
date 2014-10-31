@@ -12,7 +12,7 @@ redirect_from: "/pricklysoft.org/"
 ---
 ### Software ###
 
-My software projects are on [GitHub][schwilk-github].
+My software projects are on [GitHub][schwilk-github].  My lab also has a GitHub account where we work on lab projects and were I also have some tools that may be of most interests to my students: [My student Emacs configuration][emacs-ss], [a collection of pandoc templates organized into a build system][pandoc-build-system], and [our protocols repo][protocols].
 
 ### Online data and source code for published papers  ###
 
@@ -52,6 +52,9 @@ Online appendix with supertree phylogenies created and used in above paper: [ms-
 
 
 [schwilk-github]: https://github.com/dschwilk
+[emacs-ss]: https://github.com/schwilklab/emacs-starter
+[pandoc-build-system]: https://github.com/schwilklab/pandoc-build-system
+[protocols]: https://github.com/schwilklab/protocols
 [dwstree]: https://github.com/dschwilk/dwstree
 [BarkContour]: https://gist.github.com/dschwilk/fa36e849cb5db561982c
 [Schwilk-etal-2013]: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079285
