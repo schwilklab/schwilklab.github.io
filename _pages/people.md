@@ -11,7 +11,7 @@ redirect_from: "/people.html"
 
 ---
 
-| Current Lab Members                  |                                                                                                     |
+| Current Lab Members         |                                                                                                     |
 | ----------------------------| ----------------------------------------------------------------------------------------------------|
 | Dr. Dylan Schwilk           | PI                                                                                                  |
 | Rita Margarida Magalhães    | PhD, in progress                                                                                    |
