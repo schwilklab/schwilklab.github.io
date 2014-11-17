@@ -17,11 +17,11 @@ redirect_from: "/people.html"
 | Rita Margarida Magalhães             | PhD, in progress                                                                                    |
 | Xiulin Gao                           | PhD, in progress                                                                                    |
 | Erik Lindberg                        | Masters, in progress                                                                                |
-| Tailor Brown                         | HHMI Undergraduate Research Scholar                                                                 |
-| Marley Clifton                       | Undergraduate researcher                                                                            |
-| Gabrielle Plata                      | Undergraduate researcher                                                                            |
-| Letitia Plata                        | Undergraduate researcher                                                                            |
-| Hannah Bell                          | Undergraduate researcher                                                                            |
+| Tailor Brown                         | Undergraduate researcher                                                                            |
+| Marley Clifton                       | Undergraduate technician                                                                            |
+| Gabrielle Plata                      | Undergraduate technician                                                                            |
+| Letitia Plata                        | Undergraduate technician                                                                            |
+| Hannah Bell                          | Undergraduate technician                                                                            |
 
 
 | Past graduate students               |                                                                                                     |
