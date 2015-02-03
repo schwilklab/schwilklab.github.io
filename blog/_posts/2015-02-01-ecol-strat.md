@@ -14,3 +14,4 @@ Ecological Strategies of Plants (BIOL 3405) field trip to Big Bend. Despite heav
 
 ![Figure]({{ site.baseurl }}/images/20150201-BBNP-pine-cyn-pool-780.png)
 ![Figure]({{ site.baseurl }}/images/20150201-BBNP-Castalon-780.png)
+![Figure]({{ site.baseurl }}/images/20150201-BBNP-pine-cyn-pouroff-780.png)
