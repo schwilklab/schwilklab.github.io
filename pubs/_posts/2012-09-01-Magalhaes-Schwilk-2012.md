@@ -9,4 +9,4 @@ published: true
 
 ---
 
-de Magalhães, Rita M.Q. and Dylan W. Schwilk. 2012. Leaf traits and litter flammability: evidence for non-additive mixture effects in a temperate forest. *Journal of Ecology*. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2745.2012.01987.x/abstract"> DOI:10.1111/j.1365-2745.2012.01987.x. </a>
+de Magalhães, Rita M.Q. and Dylan W. Schwilk. 2012. Leaf traits and litter flammability: evidence for non-additive mixture effects in a temperate forest. *Journal of Ecology* 100: 1153–-1163. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2745.2012.01987.x/abstract"> DOI:10.1111/j.1365-2745.2012.01987.x. </a>
