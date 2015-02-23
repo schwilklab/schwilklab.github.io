@@ -3,7 +3,7 @@ layout: pub
 title: Schwilk et al 2013
 tags: [fire ecology, plant functional traits, sky islands]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Magalhaes%2BSchwilk-2012.pdf
+pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BGaetani%2Betal-2013.pdf
 type: pub
 published: true
 
