@@ -12,7 +12,7 @@ redirect_from: "/pricklysoft.org/"
 ---
 ### Software ###
 
-My software projects are on [GitHub][schwilk-github].  My lab also has a GitHub account where we work on lab projects and were I also have some tools that may be of most interests to my students: [My student Emacs configuration][emacs-ss], [a collection of pandoc templates organized into a build system][pandoc-build-system], and [our protocols repo][protocols].
+My software projects are on [GitHub][schwilk-github]. My lab also has a GitHub account where we work on lab projects and were I also keep some tools of interest to my students: [My student Emacs configuration][emacs-ss], [a collection of pandoc templates organized into a build system][pandoc-build-system], and [our protocols repo][protocols].
 
 ### Online data and source code for published papers  ###
 
