@@ -25,6 +25,7 @@ Annuals
 
 -   *Coreopsis basalis* (goldenwave)
 -   *Coreopsis tinctoria*
+-   *Dracopis amplexicaulis* (clasping coneflower)
 -   *Gaillardia pulchella* (Indian blanket)
 -   *Machaeranthera tanacetifolia* (Tahoka daisy)
 -   *Monarda citriodora* (beebalm)
@@ -55,6 +56,7 @@ Perennial herbs, wildflowers
 -   *Ipomopsis rubra* (Standing cypress) Attracts hummingbirds.
 -   *Liatris mucronata* (gayfeather) Fall flowering
 -   *Linum lewisii*
+-   *Ratibida columnifera* (Mexican hat).
 -   *Rivina humilis* (Pigeonberry)
 -   *Rudbeckia hirta* (Black-Eyed Susan)
 -   *Tradescantia occidentalis*
@@ -70,9 +72,10 @@ Shrubs and succulents
 -   *Agave polianthiflora*
 -   *Dasylirion leophyllum* (sotol)
 -   *Dasylirion texanum* (sotol)
--   *Dasylirion wheeleri* (sotol)
+-   *Dasylirion wheeleri* (sotol). The one sotol you can buy from the home stores.  Does not do quite as well in my lab as the other two species.
 -   *Echinocactus texensis* (horse crippler)
 -   *Ericameria nauseosa* (rabbitbrush)
+-   *Fallugia paradoxa* (Apache plume)
 -   *Forestiera neomexicana* (New mexican privet)
 -   *Fouquieria splendens* (ocotillo)
 -   *Larrea tridentata* (creosote bush)
