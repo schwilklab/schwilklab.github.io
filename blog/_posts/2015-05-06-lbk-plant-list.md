@@ -13,11 +13,11 @@ author: Dylan W. Schwilk
 
 ![Figure]({{ site.baseurl }}/images/15-05-06-lbk-garden.jpg)
 
-With the spring rains, our yard is in flower. Although bermuda grass lawns are very popular in Lubbock, there are many beautiful native plants that will grow well here. For gardening purposes, I consider "native" to mean native to the high plains, the Chihuahuan desert or the west Texas mountains.
+With the spring rains our yard is in flower. Although bermuda grass lawns are very popular in Lubbock, there are many beautiful native plants that will grow well here. For gardening purposes I consider "native" to mean native to the high plains, the Chihuahuan desert or the west Texas mountains.
 
-Everything on this list is currently growing in my yard. Some I've started from seed I collected, some I've purchased or traded for with other gardeners.  A few were gifts from a native plant gardening colleague.
+Everything on this list is currently growing in my yard. Some I've started from seed I collected and some I've purchased or traded for with other gardeners.  A few were gifts from a native plant gardening colleague.
 
-There are many more speceis that will do great in Lubbock.  I just haven't tried them yet.
+There are many more species that will do great in Lubbock.  I just haven't tried them yet.
 
 
 Annuals
