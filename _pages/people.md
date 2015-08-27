@@ -17,12 +17,7 @@ redirect_from: "/people.html"
 | Rita Margarida Magalhães    | PhD, in progress                                                                                    |
 | Xiulin Gao                  | PhD, in progress                                                                                    |
 | Erik Lindberg               | Masters, in progress                                                                                |
-| Tailor Brown                | Undergraduate researcher                                                                            |
-| Marley Clifton              | Undergraduate technician                                                                            |
-| Gabrielle Plata             | Undergraduate technician                                                                            |
-| Letitia Plata               | Undergraduate technician                                                                            |
-| Hannah Bell                 | Undergraduate technician                                                                            |
-
+| Jonathan Galvez             | Undergraduate technician                                                                            |
 
 | Past graduate students      |                                                                                                              |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -42,3 +37,9 @@ redirect_from: "/people.html"
 | Tyler Helton                | 2013                                                                                                |
 | Erika Berry                 | 2013                                                                                                |
 | Josh Willms                 | 2013-2014. HHMI Undergraduate Research Scholar                                                      |
+| Tailor Brown                | 2013-2015 HHMI Undergraduate Research Scholar                                                       |
+| Marley Clifton              | 2013-2014                                                                                           |
+| Hannah Bell                 | 2014                                                                                                |
+| Gabrielle Plata             | 2014-2015                                                                                           |
+| Letitia Plata               | 2014-2015                                                                                           |
+| Juan Aragon                 | 2015
