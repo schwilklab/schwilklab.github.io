@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<div class="page">
+  <header class="page-header">
+    <!-- <h1 class="page-title">{{ page.title }}</h1> -->
+  </header>
+ 
+  <div class="page-content">
+    <div class="entry">
+       <header class="entry-header">
+         <h1>{{ page.title }}</h1>
+       </header>
+       <p>{{ page.content | remove: '<p>' | remove: '</p>' }}
+         {% if page.pdf %} <a href="{{ page.pdf }}">&nbsp;• PDF •</a>{% endif %}
+      </p>
+   </div> <!-- /page-content -->
+</div> <!-- /page -->

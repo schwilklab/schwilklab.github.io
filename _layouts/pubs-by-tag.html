@@ -24,14 +24,12 @@ layout: page
      {% for post in site.categories["pubs"] %} {% if post.tags contains this_word %} {% assign pcount = pcount | plus:1 %} {% endif %} {% endfor %}
       {% if pcount != 0 %}
         <div class="entry">
-           <header class="entry-header">
-           <h2 class = "entry-title" id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+          <header class="entry-header">
+            <h2 class = "entry-title" id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
           </header>
-         {% for post in site.categories["pubs"] %} {% if post.tags contains this_word %}
-             <p>{{ post.content | remove: '<p>' | remove: '</p>' }}
-             {% if post.pdf %} <a href="{{ post.pdf }}">&nbsp;• PDF •</a>{% endif %}
-             </p>   
-         {% endif %}{% endfor %}
+          {% for post in site.categories["pubs"] %} {% if post.tags contains this_word %}
+            {% include pub_content.html %}
+          {% endif %}{% endfor %}
         </entry>
       {% endif %} 
    {% endunless %}{% endfor %}

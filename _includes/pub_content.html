@@ -1,0 +1,3 @@
+<p>{{ post.content | remove: '<p>' | remove: '</p>' }}
+    {% if post.pdf %} <a href="{{ post.pdf }}">&nbsp;• PDF •</a> &nbsp;&nbsp; <a href="{{ post.url }}">&nbsp; ••• </a>{% endif %}
+</p>
