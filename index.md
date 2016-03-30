@@ -12,7 +12,7 @@ We are located in the [Department of Biological Sciences](http://www.biol.ttu.ed
 
 We study plant ecology and evolution with a focus on semi-arid and fire-prone ecosystems. Our work encompasses field, garden, and greenhouse studies; comparative methods; and theoretical models.
 
-###Current interests and projects include:###
+### Current interests and projects include: ###
 
  - [Investigations into plant flammability and community assembly]({{site.baseurl}}/research/projects/#flam)
  - [The interaction of plant fire response strategies, temperature and drought]({{site.baseurl}}/research/projects/#veg-shifts)

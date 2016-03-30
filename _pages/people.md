@@ -11,20 +11,20 @@ redirect_from: "/people.html"
 
 ---
 
-| Current Lab Members         |                                                                                                     |
-| ----------------------------| ----------------------------------------------------------------------------------------------------|
-| Dr. Dylan Schwilk           | PI                                                                                                  |
-| Rita Margarida Magalhães    | PhD, in progress                                                                                    |
-| Xiulin Gao                  | PhD, in progress                                                                                    |
-| Erik Lindberg               | Masters, in progress                                                                                |
-| Jonathan Galvez             | Undergraduate technician                                                                            |
+| Current Lab Members          |                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Dr. Dylan Schwilk            | PI                                                                                                   |
+| Rita Margarida Magalhães     | PhD, in progress                                                                                     |
+| Xiulin Gao                   | PhD, in progress                                                                                     |
+| Erik Lindberg                | Masters, in progress                                                                                 |
+| Kevin Rice                   | Undergraduate researcher                                                                             |
+| Ryan Provencio               | Undergraduate researcher                                                                             |
+| Jonathan Galvez              | Undergraduate technician                                                                             |
 
 | Past graduate students      |                                                                                                              |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Russell Lackey              | Water use strategies in five oak (Quercus) species in the Davis Mountains, Texas, USA. MS (non thesis) 2013. |
 | Maria Gaetani               | Tradeoffs in fire survival strategies in southwestern oaks. MS 2012.                                         |
-| Rita Margarida Magalhães    | Leaf traits and litter flammability. MS 2011                                                                 |
-
 
 | Past undergraduates         |                                                                                                     |
 | --------------------------- | --------------------------------------------------------------------------------------------------- |
