@@ -32,7 +32,6 @@ redirect_from: "/people.html"
 | Rowdy Cunningham            | 2008–2009                                                                                           |
 | Nathan Geiger               | 2009–2010. HHMI Undergraduate Research Scholar                                                      |
 | William Brewer              | 2010–2011. HHMI Undergraduate Research Scholar                                                      |
-| Henry Gross                 | 2011                                                                                                |
 | Chris Rodriguez             | 2012. HHMI Undergraduate Research Scholar                                                           |
 | Tyler Helton                | 2013                                                                                                |
 | Erika Berry                 | 2013                                                                                                |
