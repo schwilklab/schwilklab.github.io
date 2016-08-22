@@ -9,4 +9,4 @@ published: true
 
 ---
 
-Schwilk, D. W., T. E. Brown, R. Lackey and J. Willms. In press. Post-fire resprouting oaks (genus: *Quercus*) exhibit plasticity in xylem vulnerability to drought. [*Plant Ecology*.](http://link.springer.com/article/10.1007/s11258-016-0568-y)
+Schwilk, D. W., T. E. Brown, R. Lackey and J. Willms. 2016. Post-fire resprouting oaks (genus: *Quercus*) exhibit plasticity in xylem vulnerability to drought. [*Plant Ecology* 217: 697-710](http://link.springer.com/article/10.1007/s11258-016-0568-y).
