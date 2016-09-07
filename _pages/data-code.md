@@ -12,7 +12,7 @@ redirect_from: "/pricklysoft.org/"
 ---
 ### Software ###
 
-My software projects are on [GitHub][schwilk-github]. My lab also has a GitHub account where we work on lab projects and were I also keep some tools of interest to my students: [My student Emacs configuration][emacs-ss], [a collection of pandoc templates organized into a build system][pandoc-build-system], and [our protocols repo][protocols].
+Much Schwilk lab software and data is available through our [GitHub organization page][github-schwilklab]. Dylan Schwilk's projects can also be found on his [GitHub page][schwilk-github]. Some repositories of possible interest: [a student Emacs configuration][emacs-ss], [a collection of pandoc templates organized into a build system][pandoc-build-system], and [our protocols repo][protocols].
 
 ### Online data and source code for published papers  ###
 
@@ -51,6 +51,7 @@ The C++ code for the genetic "niche-hiking" simulation: [ms-data-Oikos-2002][nic
 Online appendix with supertree phylogenies created and used in above paper: [ms-data-Oikos-2001][Oikos-2001]
 
 
+[schwilklab-github]: https://github.com/schwilklab
 [schwilk-github]: https://github.com/dschwilk
 [emacs-ss]: https://github.com/schwilklab/emacs-starter
 [pandoc-build-system]: https://github.com/schwilklab/pandoc-build-system
