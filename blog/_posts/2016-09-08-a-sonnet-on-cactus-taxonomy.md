@@ -3,7 +3,7 @@ layout: post
 title: A Sonnet on Cactus Taxonomy
 categories:
 - Computers
-tags: [Cactaceae, poetry]]
+tags: [Cactaceae, poetry]
 status: publish
 type: post
 published: true
@@ -26,4 +26,3 @@ So, should you call that aloe "cactus" or
 Mistake some other botanical claim,
 Then I'll not hurry to correct your term, 
 But gently nod, so to our love confirm.
-
