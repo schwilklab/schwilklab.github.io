@@ -2,7 +2,7 @@
 layout: post
 title: A Sonnet on Cactus Taxonomy
 categories:
-- Computers
+- systematics
 tags: [Cactaceae, poetry]
 status: publish
 type: post
