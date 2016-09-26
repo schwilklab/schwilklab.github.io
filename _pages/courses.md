@@ -16,7 +16,7 @@ permalink: /teaching/courses/
 
 ### Graduate ###
 
-- R as a research Tool: Introduction to Programming (BIOL 6325). Next offered Fall 2016. 
+- R as a research Tool: Introduction to Programming (BIOL 6325). Currently teaching.
 - Advanced Ecological Strategies of Plants (BIOL 6301). Next offered Fall 2017.
 - Various special topics, BIOL 6301 (ongoing)
 
