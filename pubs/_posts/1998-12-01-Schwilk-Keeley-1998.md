@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: Schwilk and Keeley 1998
-tags: [fire ecology]
+tags: [fire ecology, mammals]
 categories: []
 pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BKeeley-1998_Rodent_populations_wildfire.pdf
 type: pub
