@@ -3,7 +3,7 @@ layout: pub
 title: Willms etal 2017
 tags: [fire ecology, fuel treatments]
 categories: []
-pdf:
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Willms%2BBartusevige%2Betal-2017.pdf
 type: pub
 published: true
 
