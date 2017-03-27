@@ -3,7 +3,7 @@ layout: pub
 title: van Gestel et al 2011
 tags: [climate change]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/vanGestel%2BSchwilk%2Betal-2011_DTRreductionsInAridSystem.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/vanGestel%2BSchwilk%2Betal-2011_DTRreductionsInAridSystem.pdf
 type: pub
 published: true
 

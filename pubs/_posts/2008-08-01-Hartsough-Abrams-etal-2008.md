@@ -3,7 +3,7 @@ layout: pub
 title: Hartsough et al 2008
 tags: [fuel treatments]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Hartsough%2BAbrams%2Betal-2008.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Hartsough%2BAbrams%2Betal-2008.pdf
 type: pub
 published: true
 

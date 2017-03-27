@@ -3,7 +3,7 @@ layout: pub
 title: Kerr et al 1999
 tags: [evolution, plant functional traits, flammability]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Kerr%2BSchwilk%2Betal-1999.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Kerr%2BSchwilk%2Betal-1999.pdf
 type: pub
 published: true
 

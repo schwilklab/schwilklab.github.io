@@ -3,7 +3,7 @@ layout: pub
 title: Fisher-Phelps et al 2017
 tags: [mammals]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/FisherPhelps%2BSchwilk%2Betal-2017.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/FisherPhelps%2BSchwilk%2Betal-2017.pdf
 type: pub
 published: true
 

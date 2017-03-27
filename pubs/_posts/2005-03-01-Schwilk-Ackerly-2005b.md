@@ -3,7 +3,7 @@ layout: pub
 title: Schwilk and Ackerly 2005
 tags: [niche]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BAckerly-2005b_limiting_similarity.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Schwilk%2BAckerly-2005b_limiting_similarity.pdf
 type: pub
 published: true
 

@@ -3,7 +3,7 @@ layout: pub
 title: Morlon et al 2011
 tags: [community phylogenetics]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Morlon%2BSchwilk%2Betal-2011.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Morlon%2BSchwilk%2Betal-2011.pdf
 type: pub
 published: true
 

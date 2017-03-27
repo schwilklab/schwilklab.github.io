@@ -3,7 +3,7 @@ layout: pub
 title: Schwilk et al 2016
 tags: [plant functional traits, sky islands, fire ecology, niche]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BBrown%2Betal-2016.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Schwilk%2BBrown%2Betal-2016.pdf
 type: pub
 published: true
 

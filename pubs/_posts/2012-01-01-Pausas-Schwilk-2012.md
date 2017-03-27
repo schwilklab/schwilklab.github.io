@@ -3,7 +3,7 @@ layout: pub
 title: Pausas and Schwilk 2012
 tags: [fire ecology, evolution]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Pausas%2BSchwilk-2012_NewPhytol_fire-evolution.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Pausas%2BSchwilk-2012_NewPhytol_fire-evolution.pdf
 type: pub
 published: true
 

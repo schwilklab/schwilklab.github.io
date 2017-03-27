@@ -3,7 +3,7 @@ layout: pub
 title: Schwilk and Zavala 2012
 tags: [fire ecology, plant functional traits]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BZavala-2012.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Schwilk%2BZavala-2012.pdf
 type: pub
 published: true
 

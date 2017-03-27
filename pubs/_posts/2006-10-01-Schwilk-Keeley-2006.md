@@ -3,7 +3,7 @@ layout: pub
 title: Schwilk and Keeley 2006
 tags: [fire ecology]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BKeeley-2006.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Schwilk%2BKeeley-2006.pdf
 type: pub
 published: true
 

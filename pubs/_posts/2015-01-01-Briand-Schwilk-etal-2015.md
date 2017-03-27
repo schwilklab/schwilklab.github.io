@@ -3,7 +3,7 @@ layout: pub
 title: Briand et al 2015
 tags: [fire ecology]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Briand%2BSchwilk%2BEtal-2015_jack-pine.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Briand%2BSchwilk%2BEtal-2015_jack-pine.pdf
 type: pub
 published: true
 

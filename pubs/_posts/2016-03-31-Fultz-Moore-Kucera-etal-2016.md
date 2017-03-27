@@ -3,7 +3,7 @@ layout: pub
 title: Fultx et al 2016
 tags: [fire ecology]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Fultz%2BMoore-Kucera%2Betal-2016_soil.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Fultz%2BMoore-Kucera%2Betal-2016_soil.pdf
 type: pub
 published: true
 

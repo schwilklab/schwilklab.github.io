@@ -3,7 +3,7 @@ layout: pub
 title: Holaday et al 2015
 tags: [plant functional traits]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Holaday%2BSchwilk%2Betal-2015_N_use_plasticity.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Holaday%2BSchwilk%2Betal-2015_N_use_plasticity.pdf
 type: pub
 published: true
 

@@ -3,7 +3,7 @@ layout: pub
 title: McIver et al 2013
 tags: [fire ecology, fuel treatments]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/McIver%2BStephens%2Betal-2012_FFS-Highlights_IJWF2012.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/McIver%2BStephens%2Betal-2012_FFS-Highlights_IJWF2012.pdf
 status: publish
 type: pub
 published: true

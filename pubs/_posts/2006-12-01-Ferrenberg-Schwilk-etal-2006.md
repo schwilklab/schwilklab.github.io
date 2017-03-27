@@ -3,7 +3,7 @@ layout: pub
 title: Ferrenberg et al 2006
 tags: [fire ecology]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Ferrenberg%2BSchwilk%2Betal-2006.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Ferrenberg%2BSchwilk%2Betal-2006.pdf
 type: pub
 published: true
 

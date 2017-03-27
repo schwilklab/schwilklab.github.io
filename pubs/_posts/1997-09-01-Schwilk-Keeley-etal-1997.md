@@ -3,7 +3,7 @@ layout: pub
 title: Schwilk et al 1997
 tags: [fire ecology]
 categories: []
-pdf: https://dl.dropboxusercontent.com/u/69724712/reprints/Schwilk%2BKeeley%2Betal-1997_intermediate_disturbance.pdf
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Schwilk%2BKeeley%2Betal-1997_intermediate_disturbance.pdf
 type: pub
 published: true
 
