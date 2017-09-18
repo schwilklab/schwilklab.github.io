@@ -20,9 +20,9 @@ redirect_from: "/people.html"
 | Past graduate students      |                                                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Rita Margarida Magalhães    | The effect of leaf traits on litter flammability in mixed-conifer forest. PhD. 2017.                                                       |
-| Erik Lindberg               | Spatial and temporal variation in resin defense and growth investment across three subsections of Pinus from West Texas mountains. Ms 2017 |
+| Erik Lindberg               | Spatial and temporal variation in resin defense and growth investment across three subsections of Pinus from West Texas mountains. MS 2017 |
 | Russell Lackey              | Water use strategies in five oak (Quercus) species in the Davis Mountains, Texas, USA. MS (non thesis) 2013.                               |
-| Maria Gaetani               | Tradeoffs in fire survival strategies in southwestern oaks. Ms 2012.                                                                       |
+| Maria Gaetani               | Tradeoffs in fire survival strategies in southwestern oaks. MS 2012.                                                                       |
 
 | Past undergraduates          |                                                                                                                                            |
 | ---------------------------  | ------------------------------------------------------------------------------------------------------------------------------------------ |
