@@ -12,7 +12,7 @@ redirect_from: "/pro-students.html"
 
 I am currently accepting both Master's and Ph.D. students. I have funded RA-ships available.
 
-Ph.D. students will work with me to develop an independent research project that is creative, novel, and meets their professional goals.
+Ph.D. students will work with me to develop an independent research project that meets their professional goals.
 
 For a Master's student, the dissertation project likely will be of more limited scope, for reasons related to the shorter duration of a Master's degree. A Master's degree is ideal for exploring interests, building skills, and practicing science under more guidance than would be allowed in a Ph.D. program.
 
@@ -20,15 +20,7 @@ Interested students should read several of my papers and the material on this we
 
 ### Application Procedures ###
 
-Email me a Curriculum Vitae and be sure to include:
-
- 1. statement of your research interests and career goals
- 2. academic and professional accomplishments (degrees, GPA, GRE scores, awards, fellowships, publications, grants, presentations at professional meetings, jobs)
- 3. summary of your past research experiences
- 4. names, addresses, phone numbers, and email addresses of 2-3 references
-
-
-I will contact you for discussion and you will then need to apply to the graduate programs in both the [Department of Biological Sciences][TTU-BIOL] and in the [Graduate School at Texas Tech University][TTU-gradschool].
+Contact me via email and we can discuss your research interests and career goals. You will then need to apply to the Biological Science graduate program through the [Graduate School at Texas Tech University][TTU-gradschool].
 
 The official departmental application deadlines are February 1 for the following Fall Semester, but prospective students must have all application materials to me by mid-January in order to be considered for acceptance and scholarships. Please contact me any time, however, as rolling admissions are possible.
 
