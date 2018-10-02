@@ -8,4 +8,4 @@ type: pub
 published: true
 
 ---
-van Mantgem, P.J. and D.W. Schwilk. Negligible influence of spatial autocorrelation in the assessment of fire effects in a mixed conifer forest. [*Fire Ecology* 5: 116-125](http://fireecology.org/abstract/?abstract=75).
+van Mantgem, P.J. and D.W. Schwilk. 2009. Negligible influence of spatial autocorrelation in the assessment of fire effects in a mixed conifer forest. [*Fire Ecology* 5: 116-125](http://fireecology.org/abstract/?abstract=75).
