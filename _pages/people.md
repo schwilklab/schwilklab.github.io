@@ -37,6 +37,7 @@ redirect_from: "/people.html"
 | Tailor Brown                |                                                                                              2013-2015 HHMI Undergraduate Research Scholar |
 | Josh Willms                 |                                                                                             2013-2014. HHMI Undergraduate Research Scholar |
 | Erika Berry                 |                                                                                                                                       2013 |
+| Chelsea Griffin             |                                                                                                                                       2013 |
 | Tyler Helton                |                                                                                                                                       2013 |
 | Chris Rodriguez             |                                                                                                  2012. HHMI Undergraduate Research Scholar |
 | William Brewer              |                                                                                             2010–2011. HHMI Undergraduate Research Scholar |
