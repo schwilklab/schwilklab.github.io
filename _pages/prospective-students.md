@@ -26,4 +26,4 @@ For full consideration for all fellowships and scholarships, all application mat
 
 [TTU-BIOL]: http://www.biol.ttu.edu
 [TTU-gradschool]: http://www.depts.ttu.edu/gradschool/
-[TTU-grad-app]: https://texastechgrad.liaisoncas.com/applicant-ux/
+[TTU-grad-app]: http://www.depts.ttu.edu/gradschool/admissions/howtoapply.php
