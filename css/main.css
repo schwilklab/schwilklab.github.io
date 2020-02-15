@@ -809,8 +809,7 @@ img.wp-smiley,
 	position: relative;
 }
 
-ul.nav-menu,
-div.nav-menu > ul {
+ul.nav-menu, div.nav-menu > ul {
 	margin: 0;
 	padding: 0 40px 0 0;
 }
@@ -829,8 +828,7 @@ div.nav-menu > ul {
 	text-decoration: none;
 }
 
-.nav-menu li:hover > a,
-.nav-menu li a:hover {
+.nav-menu li:hover, .nav-menu li a:hover {
 	background-color: #220e10;
 	color: #fff;
 }
@@ -1922,10 +1920,10 @@ footer.entry-meta {
 		color: #fff;
 	}
 
-	ul.nav-menu,
-	div.nav-menu > ul {
-		display: none;
-	}
+	/* ul.nav-menu, */
+	/* div.nav-menu > ul { */
+	/* 	display: none; */
+	/* } */
 
 	#content .featured-gallery {
 		padding-left: 24px;
