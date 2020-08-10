@@ -3,7 +3,7 @@ layout: pub
 title: Stevens et al 2020
 tags: [fire ecology, flammability, plant functional traits]
 categories: []
-pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/geb.13079
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Stevens%2BKling%2Betal-2020.pdf
 type: pub
 published: true
 
