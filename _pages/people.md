@@ -11,17 +11,24 @@ redirect_from: "/people.html"
 
 ---
 
-| Current Lab Members          |                                                                                                                                            |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Dr. Dylan Schwilk            | PI                                                                                                                                         |
-| Xiulin Gao                   | PhD, Fire mediated tree-grass interactions in savannas
-| Morgan Long                  | MS, TBA                                                                                                                         |
+| PI and current graduate students |                                                                                                                                            |
+| ----------------------------     | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dr. Dylan Schwilk                | PI                                                                                                                                         |
+| Azaj Mahmud                      | MS. TBA, Texas native plants and fire hazard                                                                                               |
+| Peter Eludini                    | PhD. TBA, soil stored seedbanks                                                                                                            |
+
+| Current undergraduates           |                          |
+| Muhammad Usman                    | Undergraduate researcher |
+| Heath Hampton                     | Undergraduate researcher |
+| Keeley Ussery                     | Undergraduate researcher |
+
 
 | Past graduate students      |                                                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Xiulin Gao                  | Fire mediated tree-grass interactions in savannas. PhD 2021                                                                                |
 | Rita Margarida Magalhães    | The effect of leaf traits on litter flammability in mixed-conifer forest. PhD 2017.                                                        |
 | Erik Lindberg               | Spatial and temporal variation in resin defense and growth investment across three subsections of Pinus from West Texas mountains. MS 2017 |
-| Russell Lackey              | Water use strategies in five oak (Quercus) species in the Davis Mountains, Texas, USA. MS (non thesis) 2013.                               |
+| Russell Lackey              | Water use strategies in five oak (Quercus) species in the Davis Mountains, Texas, USA. MS 2013.                                            |
 | Maria Gaetani               | Tradeoffs in fire survival strategies in southwestern oaks. MS 2012.                                                                       |
 
 | Past undergraduates         |                                                                                                                                            |
