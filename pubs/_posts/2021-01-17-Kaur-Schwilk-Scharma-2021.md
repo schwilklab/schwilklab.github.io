@@ -1,6 +1,6 @@
 ---
 layout: pub
-title: Kaur et al. 2020
+title: Kaur et al. 2021
 tags: [plant functional traits, climate change]
 categories: []
 pdf: TODO
