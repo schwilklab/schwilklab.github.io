@@ -10,7 +10,7 @@ permalink: /prospective-students/
 redirect_from: "/pro-students.html"
 ---
 
-I am currently accepting both Master's and Ph.D. students. I have funded RA-ships available.
+I am currently accepting both Master's and Ph.D. students. 
 
 Ph.D. students will work with me to develop an independent research project that meets their professional goals.
 
@@ -22,7 +22,7 @@ Interested students should read several of my papers and the material on this we
 
 Contact me via email and we can discuss your research interests and career goals. You will then need to apply to the Biological Science graduate program through the [Graduate School at Texas Tech University][TTU-gradschool].  The new application portal is [here][TTU-grad-app]
 
-For full consideration for all fellowships and scholarships, all application materials must be submitted to the TTU Graduate School by January 15th for addmittance the following fall Semester.  Applications for spring matriculation are due by September 31. Please contact me any time, however, as rolling admissions are possible.
+For full consideration for all fellowships and scholarships, all application materials must be submitted to the TTU Graduate School by December 1 for admittance the following fall Semester. Please contact me any time, however, as rolling admissions are possible.
 
 [TTU-BIOL]: http://www.biol.ttu.edu
 [TTU-gradschool]: http://www.depts.ttu.edu/gradschool/
