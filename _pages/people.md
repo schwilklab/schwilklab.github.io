@@ -18,9 +18,9 @@ redirect_from: "/people.html"
 | Peter Eludini                    | PhD. TBA, soil stored seedbanks                                                                                                            |
 
 | Current undergraduates           |                          |
-| Muhammad Usman                    | Undergraduate researcher |
-| Heath Hampton                     | Undergraduate researcher |
-| Keeley Ussery                     | Undergraduate researcher |
+| Muhammad Usman                   | Undergraduate researcher |
+| Heath Hampton                    | Undergraduate researcher |
+| Keely Ussery                     | Undergraduate researcher |
 
 
 | Past graduate students      |                                                                                                                                            |
