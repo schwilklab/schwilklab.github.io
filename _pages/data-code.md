@@ -57,7 +57,7 @@ Online appendix with supertree phylogenies created and used in above paper: [ms-
 [pandoc-build-system]: https://github.com/schwilklab/pandoc-build-system
 [protocols]: https://github.com/schwilklab/protocols
 [dwstree]: https://github.com/dschwilk/dwstree
-[BarkContour]: https://gist.github.com/dschwilk/fa36e849cb5db561982c
+[BarkContour]: https://github.com/schwilklab/bark-contour
 [Schwilk-etal-2013]: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079285
 [traithull]: https://github.com/dschwilk/traithull
 [Morlon-etal-2011]: http://onlinelibrary.wiley.com/doi/10.1111/j.1461-0248.2010.01563.x/abstract
