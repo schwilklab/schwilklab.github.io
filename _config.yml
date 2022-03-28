@@ -11,5 +11,6 @@ markdown: kramdown
 permalinks: pretty
 include: ['_pages']
 relative_permalinks: false
+future: true
 gems:
   - jekyll-redirect-from
