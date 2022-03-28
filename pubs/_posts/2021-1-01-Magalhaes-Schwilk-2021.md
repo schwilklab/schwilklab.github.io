@@ -3,7 +3,7 @@ layout: pub
 title: Magalhaes and Schwilk 2021
 tags: [fire ecology, flammability, plant functional traits]
 categories: []
-pdf: https://doi.org/10.1111/1365-2745.13467
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Magalhaes%2BSchwilk-2021.pdf
 type: pub
 published: true
 

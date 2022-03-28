@@ -3,7 +3,7 @@ layout: pub
 title: Kaur et al. 2021
 tags: [plant functional traits, climate change]
 categories: []
-pdf: TODO
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Kaur%2BSchwilk%2Betal-2020_Plant-Species-Biology-Seed-germination-and-plant-fitness.pdf
 type: pub
 published: true
 

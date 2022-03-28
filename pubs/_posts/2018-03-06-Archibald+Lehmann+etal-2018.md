@@ -3,6 +3,7 @@ layout: pub
 title: Archibald et al 2018
 tags: [flammability, evolution, fire ecology]
 categories: []
+pdf: https://s3.amazonaws.com/reprints.schwilk.org/Archibald%2BLehmann%2Betal-2018_Environ-Res-Lett-Fire-earch-system.pdf
 type: pub
 published: true
 
