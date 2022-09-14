@@ -12,15 +12,21 @@ redirect_from: "/people.html"
 ---
 
 | PI and current graduate students |                                                                                                                                            |
-| ----------------------------     | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Dr. Dylan Schwilk                | PI                                                                                                                                         |
 | Azaj Mahmud                      | MS. TBA, Texas native plants and fire hazard                                                                                               |
 | Peter Eludini                    | PhD. TBA, soil stored seedbanks                                                                                                            |
+|----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
 
-| Current undergraduates           |                          |
-| Muhammad Usman                   | Undergraduate researcher |
-| Heath Hampton                    | Undergraduate researcher |
-| Keely Ussery                     | Undergraduate researcher |
+
+| Current undergraduates |                          |
+|------------------------+--------------------------|
+| Andriana Botero        |                          |
+| Caden Casanova         |                          |
+| Heath Hampton          | Undergraduate researcher |
+| Keely Ussery           | Undergraduate researcher |
+|------------------------+--------------------------|
+|                        |                          |
 
 
 | Past graduate students      |                                                                                                                                            |
@@ -30,9 +36,13 @@ redirect_from: "/people.html"
 | Erik Lindberg               | Spatial and temporal variation in resin defense and growth investment across three subsections of Pinus from West Texas mountains. MS 2017 |
 | Russell Lackey              | Water use strategies in five oak (Quercus) species in the Davis Mountains, Texas, USA. MS 2013.                                            |
 | Maria Gaetani               | Tradeoffs in fire survival strategies in southwestern oaks. MS 2012.                                                                       |
+|-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+|                             |                                                                                                                                            |
+
 
 | Past undergraduates         |                                                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Muhammad Usman              |                                                                                                                                            |
 | Yushan Gao                  |                                                                                                                                            |
 | Sabrina Ansari              |                                                                                                                                       2017 |
 | Jonathan Galvez             |                                                                                                                                       2016 |
@@ -52,4 +62,6 @@ redirect_from: "/people.html"
 | William Brewer              |                                                                                             2010–2011. HHMI Undergraduate Research Scholar |
 | Nathan Geiger               |                                                                                             2009–2010. HHMI Undergraduate Research Scholar |
 | Rowdy Cunningham            |                                                                                                                                  2008–2009 |
-| Noelle Zavala               |                                                                                             2008–2009. HHMI Undergraduate Research Scholar |
+| Noelle Zavala               |                                                                                                     2008–2009. HHMI Undergraduate Research |
+|-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------|
+
