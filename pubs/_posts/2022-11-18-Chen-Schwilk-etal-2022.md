@@ -3,8 +3,8 @@ layout: pub
 title: Chen et al 2022
 tags: [fire ecology]
 categories: []
-pdf:https://www.frontiersin.org/articles/10.3389/fevo.2022.983192/pdf 
-type: 
+pdf: https://www.frontiersin.org/articles/10.3389/fevo.2022.983192/pdf 
+type: pub
 published: true
 
 ---
