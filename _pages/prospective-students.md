@@ -22,7 +22,7 @@ Interested students should read several of my papers and the material on this we
 
 Contact me via email and we can discuss your research interests and career goals. You will then need to apply to the Biological Science graduate program through the [Graduate School at Texas Tech University][TTU-gradschool].  The new application portal is [here][TTU-grad-app]
 
-For full consideration for all fellowships and scholarships, all application materials must be submitted to the TTU Graduate School by December 1 for admittance the following fall Semester. Please contact me any time, however, as rolling admissions are possible.
+For full consideration for all fellowships and scholarships, all application materials must be submitted to the TTU Graduate School by January 1 for admittance the following fall Semester. Please contact me earlier, however.
 
 [TTU-BIOL]: http://www.biol.ttu.edu
 [TTU-gradschool]: http://www.depts.ttu.edu/gradschool/
