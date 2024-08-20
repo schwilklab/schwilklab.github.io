@@ -3,7 +3,7 @@ layout: pub
 title: Shuman et al 2022
 tags: [fire ecology]
 categories: []
-pdf:
+pdf:  https://s3.amazonaws.com/reprints.schwilk.org/Shuman%2BBalch%2Betal-2022_PNASNexus_2021-00236_revision_v4_220701.pdf
 type: 
 published: true
 
