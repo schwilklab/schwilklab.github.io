@@ -28,5 +28,5 @@ We study plant ecology and evolution with a focus on semi-arid and fire-prone ec
 | dylan.schwilk@ttu.edu  • [GPG key][gpg]                | <a rel="me" href="https://fediscience.org/@schwilk">@schwilk@fediscience.org</a> |
 
 [ESB2]: https://www.ttu.edu/map/?b=Experimental%20Sciences%20II
-[TTU]: https://maps.google.com/maps/ms?msid=214596173309067366017.00044bf6d86e2cdaeb1a6&amp;msa=0&amp;ll=33.584128,-101.874976&amp;spn=0.030389,0.07154
+[TTU]: https://www.openstreetmap.org/way/460896580
 [gpg]: {{site.baseurl}}/downloads/schwilk-key-pub.txt
