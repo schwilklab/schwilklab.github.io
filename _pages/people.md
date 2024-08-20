@@ -11,12 +11,12 @@ redirect_from: "/people.html"
 
 ---
 
-| PI and current graduate students |                                                                              |
-|----------------------------------|------------------------------------------------------------------------------|
-| Dr. Dylan Schwilk                | PI                                                                           |
-| Azaj Mahmud                      | PhD. Shrub flammability and fire hazard                                      |
-| Alex Bowers                      | MS. Mechanisms of shrub encroachment on the Edwards Plateau of central Texas |
-|----------------------------------|------------------------------------------------------------------------------|
+| PI and current graduate students |                                         |
+|----------------------------------|-----------------------------------------|
+| Dr. Dylan Schwilk                | PI                                      |
+| Azaj Mahmud                      | PhD. Shrub flammability and fire hazard |
+| Puja Roy                         | PhD. TBA                                |
+|----------------------------------|-----------------------------------------|
 
 
 | Current undergraduates |   |
@@ -26,9 +26,10 @@ redirect_from: "/people.html"
 
 
 
-| Past graduate students   |                                                                                                                                            |
+| Past graduate students   | Thesis title                                                                                                                                           |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Peter Eludini            | Soil stored seedbanks. Non Thesis MS 2023                                                                                                  |
+| Alex Bowers              | Age structure of *Juniperus ashei* in central Texas, MS 2024.                                                                                |
+| Peter Eludini            | Soil stored seedbanks. Non Thesis MS 2023.                                                                                                 |
 | Azaj Mahmud              | Shoot flammability of shrubs in Texas. MS 2023.                                                                                            |
 | Xiulin Gao               | Fire mediated tree-grass interactions in savannas. PhD 2021                                                                                |
 | Rita Margarida Magalhães | The effect of leaf traits on litter flammability in mixed-conifer forest. PhD 2017.                                                        |
@@ -38,7 +39,7 @@ redirect_from: "/people.html"
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 
 
-| Past undergraduates |                                                |
+| Past undergraduates | years in lab                                               |
 |---------------------|------------------------------------------------|
 | Heath Hampton       | 2021-2023                                      |
 | Keely Ussery        | 2021-2023                                      |
