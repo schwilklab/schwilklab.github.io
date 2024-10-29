@@ -9,4 +9,4 @@ published: true
 
 ---
 
-Shanta Budha-Magar, Nicola Day, Hannah Buckley, Olivia Burge, Sarah Richardson, Dylan Schwilk, Ruby Ross, and Timothy Curran. In Press. Plant morphological traits and leaf nutrient concentrations are associated with plant flammability and phylogenetic relationships in sub-alpine vegetation, New Zealand. /International Journal of Wildland Fire/.
+Shanta Budha-Magar, Nicola Day, Hannah Buckley, Olivia Burge, Sarah Richardson, Dylan Schwilk, Ruby Ross, and Timothy Curran. In Press. Plant morphological traits and leaf nutrient concentrations are associated with plant flammability and phylogenetic relationships in sub-alpine vegetation, New Zealand. *International Journal of Wildland Fire*.
