@@ -12,7 +12,7 @@ redirect_from: "/pricklysoft.org/"
 ---
 ### Software ###
 
-Much Schwilk lab software and data is available through our [GitHub organization page][schwilklab-github]. Dylan Schwilk's projects can also be found on his [GitHub page][schwilk-github]. Some repositories of possible interest: [a student Emacs configuration][emacs-ss], [a collection of pandoc templates organized into a build system][pandoc-build-system], and [our protocols repo][protocols].
+Much Schwilk lab software and data is available through our [GitHub organization page][schwilklab-github]. Dylan Schwilk's projects can also be found on his [GitHub page][schwilk-github].
 
 ### Online data and source code for published papers  ###
 
