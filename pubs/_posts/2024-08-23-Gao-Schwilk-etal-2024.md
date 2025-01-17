@@ -9,4 +9,4 @@ published: true
 
 ---
 
-Gao, X. D.W. Schwilk, and R. Verble. 2024. No field evidence of grass fuel structure effects on postfire tree mortality in *Juniperus virginiana*. Rangeland Ecology & Management. https://doi.org/10.1016/j.rama.2024.07.012
+Gao, X. D.W. Schwilk, and R. Verble. 2024. No field evidence of grass fuel structure effects on postfire tree mortality in *Juniperus virginiana*. Rangeland Ecology & Management. 98:110-117. https://doi.org/10.1016/j.rama.2024.07.012
