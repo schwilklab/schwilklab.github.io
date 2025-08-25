@@ -16,6 +16,9 @@ redirect_from: "/people.html"
 | Dr. Dylan Schwilk                | PI                                      |
 | Azaj Mahmud                      | PhD. Shrub flammability and fire hazard |
 | Puja Roy                         | PhD. TBA                                |
+| Elham Kiani                      | PhD. TBA                                |
+| Carlina Schubert                 | MS. TBA                                 |
+| Sarmila Paudel                   | MS. TBA                                 |
 |----------------------------------|-----------------------------------------|
 
 
@@ -29,7 +32,7 @@ redirect_from: "/people.html"
 | Past graduate students   | Thesis title                                                                                                                                           |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Alex Bowers              | Age structure of *Juniperus ashei* in central Texas, MS 2024.                                                                                |
-| Peter Eludini            | Soil stored seedbanks. Non Thesis MS 2023.                                                                                                 |
+| Peter Eludini            | Soil stored seedbanks. Non thesis MS 2023.                                                                                                 |
 | Azaj Mahmud              | Shoot flammability of shrubs in Texas. MS 2023.                                                                                            |
 | Xiulin Gao               | Fire mediated tree-grass interactions in savannas. PhD 2021                                                                                |
 | Rita Margarida Magalhães | The effect of leaf traits on litter flammability in mixed-conifer forest. PhD 2017.                                                        |
