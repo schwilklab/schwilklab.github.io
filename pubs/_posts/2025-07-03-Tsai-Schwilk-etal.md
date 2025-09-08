@@ -1,6 +1,6 @@
 ---
 layout: pub
-title: Tsai et 2025
+title: Tsai et al 2025
 tags: [marine ecology]
 categories: []
 pdf: https://animalbiotelemetry.biomedcentral.com/counter/pdf/10.1186/s40317-025-00418-0.pdf
