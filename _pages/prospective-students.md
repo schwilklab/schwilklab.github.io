@@ -10,7 +10,12 @@ permalink: /prospective-students/
 redirect_from: "/pro-students.html"
 ---
 
-I am currently accepting both Master's and Ph.D. students. 
+As of September 2025, I am not currently looking for new graduate students. I am part of a funded project in which some of the PIs are recruiting new students. Please see
+
+https://docs.google.com/forms/d/e/1FAIpQLSfAl6DexhGRXrbVclyF-tZZU9GotHjA0W7HUaNuL4H6Z-34qg/viewform
+
+
+### PhD vs Masters ###
 
 Ph.D. students will work with me to develop an independent research project that meets their professional goals.
 
