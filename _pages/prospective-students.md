@@ -14,6 +14,8 @@ As of September 2025, I am not currently looking for new graduate students. I am
 
 https://docs.google.com/forms/d/e/1FAIpQLSfAl6DexhGRXrbVclyF-tZZU9GotHjA0W7HUaNuL4H6Z-34qg/viewform
 
+I will likely recruit new graduate students again next eyar for Fall 2027 admission.
+
 
 ### PhD vs Masters ###
 
