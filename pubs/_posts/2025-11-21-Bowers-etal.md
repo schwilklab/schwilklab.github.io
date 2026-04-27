@@ -8,4 +8,4 @@ type: pub
 published: true
 
 ---
-Bowers, D.A., N. Gill, D.W. Schwilk. In Press. No recent invader: Spatial age structure of *Juniperus ashei* in central Texas. *Southwestern Naturalist* 70(1): 1-11. https://doi.org/10.1894/0038-4909-70.1.2
+Bowers, D.A., N. Gill, D.W. Schwilk. 2025. No recent invader: Spatial age structure of *Juniperus ashei* in central Texas. *Southwestern Naturalist* 70(1): 1-11. https://doi.org/10.1894/0038-4909-70.1.2
