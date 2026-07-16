@@ -10,4 +10,11 @@ published: true
 
 ---
 
-McIver, James, Scott Stephens, James Agee, Jamie Barbour, Ralph Boerner, Carl Edminster, Karen Erickson, Kerry Farris, Christopher Fettig, Carl Fiedler, Sally Haase, Stephen Hart, Jon Keeley, Eric Knapp, John Lehmkuhl, Jason Moghaddas, William Otrosina, Kenneth Outcalt, Dylan Schwilk, Patrick Shea, Carl Skinner, Thomas Waldrop, Phillip Weatherspoon, Daniel Yaussy, Andrew Youngblood, and Steve Zack. 2012. Ecological effects of alternative fuel reduction treatments: highlights of the U.S. Fire and Fire Surrogate study (FFS). [*International Journal of Wildland Fire*: 22: 63-82](http://dx.doi.org/10.1071/WF11130).
+McIver, J.D., S.L. Stephens, J.K. Agee, J. Barbour, R.E.J. Boerner, C.B.
+    Edminster, K.L. Erickson, K.L. Farris, C.J. Fettig, C.E. Fiedler, S. Haase,
+    S.C. Hart, J.E. Keeley, E.E. Knapp, J.F. Lehmkuhl, J.J. Moghaddas, W.
+    Otrosina, K.W. Outcalt, D.W. Schwilk, C.N. Skinner, T.A. Waldrop, C.P.
+    Weatherspoon, D.A. Yaussy, A. Youngblood, and S. Zack. 2013. Ecological
+    effects of alternative fuel reduction treatments: highlights of the U.S.
+    Fire and Fire Surrogate study (FFS). [*International Journal of Wildland
+    Fire*: 22: 63-82](http://dx.doi.org/10.1071/WF11130).

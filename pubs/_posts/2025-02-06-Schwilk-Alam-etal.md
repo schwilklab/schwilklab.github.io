@@ -8,5 +8,4 @@ type: pub
 published: true
 
 ---
-Schwilk, D.W., M.A. Alam, N. Gill, B.R. Murray, R.H. Nolan, S. Ondei, G.L.W. Perry, A.M.S. Smith, D.M.J.S. Bowman, A. Fidelis, P. Jaureguiberry, I.O. Menor, B.H.P. Rosado, H. Roland, M. Yebra, S.G. Yelenik, and T.J. Curran. 2025. From plant traits to fire behavior: Scaling issues in flammability studies. *American Journal of Botany*  https://doi.org/10.1002/ajb2.70040.
-
+Schwilk, D.W., M.A. Alam, N. Gill, B.R. Murray, R.H. Nolan, S. Ondei, G.L.W. Perry, A.M.S. Smith, D.M.J.S. Bowman, A. Fidelis, P. Jaureguiberry, I.O. Menor, B.H.P. Rosado, H. Roland, M. Yebra, S.G. Yelenik, and T.J. Curran. 2025. From plant traits to fire behavior: Scaling issues in flammability studies. *American Journal of Botany* 12(10) e70040. https://doi.org/10.1002/ajb2.70040.
