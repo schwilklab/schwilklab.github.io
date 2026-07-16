@@ -24,7 +24,8 @@ redirect_from: "/people.html"
 
 | Current undergraduates |   |
 |------------------------|---|
-|                        |   |
+| De'ojanae Pollard      |   |
+| Logan Watt             |   |
 |------------------------|---|
 
 
