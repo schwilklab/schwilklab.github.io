@@ -16,7 +16,7 @@ Much Schwilk lab software and data is available through our [GitHub organization
 
 ### Online data and source code for published papers  ###
 
-Below, in reverse chronological order, I have listed publications for which I have posted source code and/or data.
+Below, in reverse chronological order, I have listed publications for which I have posted source code and/or data here on my website. After 2013, all data and code for papers have been archived with the journal, zenodo, etc.
 
 #### Schwilk et al, 2013 *PLoS One* ####
 

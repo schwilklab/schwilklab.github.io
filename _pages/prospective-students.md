@@ -10,12 +10,7 @@ permalink: /prospective-students/
 redirect_from: "/pro-students.html"
 ---
 
-As of September 2025, I am not currently looking for new graduate students. I am part of a funded project in which some of the PIs are recruiting new students. Please see
-
-https://docs.google.com/forms/d/e/1FAIpQLSfAl6DexhGRXrbVclyF-tZZU9GotHjA0W7HUaNuL4H6Z-34qg/viewform
-
-I will likely recruit new graduate students again next eyar for Fall 2027 admission.
-
+I will likely recruit new graduate students for 2027 admission.
 
 ### PhD vs Masters ###
 
@@ -27,7 +22,7 @@ Interested students should read several of my papers and the material on this we
 
 ### Application Procedures ###
 
-Contact me via email and we can discuss your research interests and career goals. You will then need to apply to the Biological Science graduate program through the [Graduate School at Texas Tech University][TTU-gradschool].  The new application portal is [here][TTU-grad-app]
+Contact me via email and we can discuss your research interests and career goals. I interview prospective applicants during late summer and early fall. You will then need to apply to the Biological Science graduate program through the [Graduate School at Texas Tech University][TTU-gradschool].  The new application portal is [here][TTU-grad-app]
 
 For full consideration for all fellowships and scholarships, all application materials must be submitted to the TTU Graduate School by January 1 for admittance the following fall Semester. Please contact me earlier, however.
 
